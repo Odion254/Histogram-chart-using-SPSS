@@ -19,4 +19,5 @@ Key Statistics
 - Least Common: 
   - 0 points (2 employees, 10% of sample)
 - Distribution: Histogram (SPSS)
+- 
 tool used: SPSS 
